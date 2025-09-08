@@ -85,10 +85,4 @@
 
 ---
 
-###
-
-<br clear="both">
-
 ![snake gif](https://github.com/joyFaucet/joyFaucet/blob/output/github-snake-dark.svg)
-
-###
