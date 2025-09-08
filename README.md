@@ -72,3 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joyfaucet&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyfaucet&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+---
+
+## Nigga
