@@ -44,7 +44,7 @@
 <br/>
 
 ## 📲 Connect with Me
-<div align="center">
+<div align="right">
 <a href="https://instagram.com/agun9gg9" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /> </a>
   &nbsp;&nbsp;
