@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Agung</h1>
-<h3 align="left">A passionate fullstack developer from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia 🇮🇩</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=FFFFFF&background=1A1B2600&center=true&vCenter=true&multiline=true&repeat=false&width=460&height=135&lines=Fullstack+Developer;Laravel+%7C+Next.js+%7C+Tailwind;Clean+Code+Creative+Solutions;Let's+Build+Something%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
-<br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=joyfaucet&label=Profile+views&color=0e75b6&style=flat" alt="joyfaucet" />
 </div>
 
 <br/>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=joyfaucet&theme=algolia&margin-w=10&margin-h=10" alt="Trophy" />
   </a>
@@ -21,7 +20,7 @@
 
 ## 🚀 About Me
 
-<div align="right">
+<div align="left">
 
 🔭 I’m currently working on [Connect By Dutaqu](https://github.com/JoyFaucet/qonnect-by-dutaqu-frontend.git)  
 🌱 I’m currently learning **Java**  
@@ -34,7 +33,7 @@
 ---
 
 ## 📲 Connect with Me
-<div align="center">
+<div align="right">
 <a href="https://instagram.com/agun9gg9" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /> </a>
   &nbsp;&nbsp;
