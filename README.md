@@ -89,6 +89,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/joyFaucet/joyFaucet/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/joyFaucet/joyFaucet/blob/output/github-snake-dark.svg)
 
 ###
