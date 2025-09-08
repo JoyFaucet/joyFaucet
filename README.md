@@ -91,6 +91,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyfaucet&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+<br />
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=joyfaucet&theme=algolia&margin-w=10&margin-h=10" alt="Trophy" />
