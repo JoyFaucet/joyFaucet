@@ -6,6 +6,16 @@
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=joyfaucet&label=Profile+views&color=0e75b6&style=flat" alt="joyfaucet" />
+  <img src="https://img.shields.io/badge/Code%20Addict-24%2F7-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Coffee-Powered☕-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Late%20Night-Coding%20Session-black?style=for-the-badge&logo=night" />
+  <img src="https://img.shields.io/badge/Debugger-Level%2099-critical?style=for-the-badge&logo=bugatti" />
+  <img src="https://img.shields.io/badge/StackOverflow-Always%20Open-orange?style=for-the-badge&logo=stackoverflow" />
+  <img src="https://img.shields.io/badge/Terminal-Ninja-222222?style=for-the-badge&logo=gnubash" />
+  <img src="https://img.shields.io/badge/Keyboard-Warrior-black?style=for-the-badge&logo=mechanical-keyboard" />
+  <img src="https://img.shields.io/badge/Bug-Whisperer-red?style=for-the-badge&logo=bugatti" />
+  <img src="https://img.shields.io/badge/Dark%20Mode-Enabled-111111?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Made%20with-Laravel-red?style=for-the-badge&logo=laravel" />
 </div>
 
 <br/>
