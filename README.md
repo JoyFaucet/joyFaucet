@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-<div align="center">
+<div align="right">
 
 🔭 I’m currently working on [Connect By Dutaqu](https://github.com/JoyFaucet/qonnect-by-dutaqu-frontend.git)  
 🌱 I’m currently learning **Java**  
