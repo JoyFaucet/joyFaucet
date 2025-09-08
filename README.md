@@ -86,6 +86,7 @@
 ---
 
 ## 🎮 Activity
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joyFaucet/joyFaucet/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joyFaucet/joyFaucet/output/pacman-contribution-graph.svg">
@@ -93,3 +94,5 @@
 </picture>
 
 ![snake gif](https://github.com/joyFaucet/joyFaucet/blob/output/github-snake-dark.svg)
+
+---
