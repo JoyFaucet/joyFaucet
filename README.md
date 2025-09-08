@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Agung</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia 🇮🇩</h3>
-
+<br/>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=FFFFFF&background=1A1B2600&center=true&vCenter=true&multiline=true&repeat=false&width=460&height=135&lines=Fullstack+Developer;Laravel+%7C+Next.js+%7C+Tailwind;Clean+Code+Creative+Solutions;Let's+Build+Something%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=joyfaucet&label=Profile+views&color=0e75b6&style=flat" alt="joyfaucet" />
   <img src="https://img.shields.io/badge/Code%20Addict-24%2F7-blue?style=for-the-badge&logo=codeforces" />
