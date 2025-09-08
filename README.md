@@ -91,4 +91,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joyFaucet/joyFaucet/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joyFaucet/joyFaucet/output/pacman-contribution-graph.svg">
 </picture>
+
 ![snake gif](https://github.com/joyFaucet/joyFaucet/blob/output/github-snake-dark.svg)
