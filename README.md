@@ -85,13 +85,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joyfaucet&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=joyfaucet&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyfaucet&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=joyfaucet&theme=algolia&margin-w=10&margin-h=10" alt="Trophy" />
   </a>
