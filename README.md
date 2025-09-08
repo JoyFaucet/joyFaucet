@@ -33,10 +33,10 @@
 <div align="left">
 
 🔭 I’m currently working on [Connect By Dutaqu](https://github.com/JoyFaucet/qonnect-by-dutaqu-frontend.git)  
-🌱 I’m currently learning **Java** | **Python** | **Solidity** 
+🌱 I’m currently learning : **Java** | **Python** | **Solidity**                                                                                                       
 💬 Ask me about **Next.js, React, Laravel, SQL, PHP, Javascript, CSS, Tailwind**  
 📫 Reach me at **agoengpramana2006@gmail.com**  
-⚡ Fun fact: **I'm live on earth 🌍**
+⚡ Fun fact: **I live on earth 🌍**
 
 </div>
 
